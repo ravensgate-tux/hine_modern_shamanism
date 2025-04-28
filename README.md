@@ -9,7 +9,14 @@
 
 ---
 
-<img src="Phil_Hine.png" width="500">
+<div align="center">
+  <img src="Phil_Hine.png" width="400">
+
+Image of Phil Hine used with credit to the original source:  
+"Interview with Phil Hine" on Dreamflesh.com  
+https://dreamflesh.com/interview/phil-hine/
+Copyright remains with the original creator.
+</div>
 
 ---
 
