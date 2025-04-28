@@ -1,4 +1,4 @@
-# 📘 Techniques of Modern Shamanism 注解プロジェクト（Ravensgate視点）
+# 📘 フィル・ハイン著『現代シャーマニズムの技法 第1巻 (Modern Shamanism vol.1)』への注釈Zine
 
 このプロジェクトは、Phil Hineによる小冊子『Techniques of Modern Shamanism』を、日本語訳とともに再読・注釈するものです。  
 原典の意図を尊重しつつ、現代日本の魔術実践、特にRavensgateやOpen Source Witchcraftの文脈において、  
