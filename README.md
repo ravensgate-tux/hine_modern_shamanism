@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="Phil_Hine.png" width="400">
+  <img src="Phil_Hine.jpg" width="400">
 
 Image of Phil Hine used with credit to the original source:  
 "Interview with Phil Hine" on Dreamflesh.com  
