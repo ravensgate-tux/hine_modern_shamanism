@@ -44,7 +44,7 @@
 - [JACK YOUR BODY — ジャック・ユア・ボディ](techniques_annotation_14.md)
 - [CHEMICAL AIDS — ケミカル・エイズ（薬物について）](techniques_annotation_15.md)
 - [GOING DOWN — 下降（内的変容）](techniques_annotation_16.md)
-- [FURTHER WORK — さらなる実践に向けて](techniques_annotation_17.md)
+- [FURTHER READING — さらなる探求のために](techniques_annotation_17.md)
 
 ---
 
