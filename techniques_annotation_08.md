@@ -15,6 +15,8 @@ The simple repetition of a word or phrase is one of the simplest and most effect
 Feeling Music
 One way of enhancing our ability to listen is to use music, either in a group or solo setting. A very simple exercise is to any relaxation technique and then listen to a piece of taped music. The idea is to try and feel the music across your body, and see if any images, or even smells, well up in your mind.
 
+---
+
 ## 🇯🇵 サウンド・エクササイズ
 
 視覚と同様、聴覚もまた現代社会の発する音によって常に刺激されている。工業的・電子的なノイズの洪水から、鼓動や血流の音まで、私たちは四六時中、音に囲まれて生きている。そして私たちは、これら多くの音を「聞かないようにする」することで普通に生活できている。脳は、自分にとって「意味のある音」と「脅威でない音」を聞き分けるよう区別している。たとえば、砲撃の中でも眠れる兵士が、すぐそばで銃の引き金が引かれる音で目を覚ます、というような例がそれである。
