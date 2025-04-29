@@ -5,11 +5,11 @@ As the word ‘en-chant-ment’ suggests, the voice has long been associated wit
 
 **Use of the Voice**  
 The way in which we use our voices is a powerful way of projecting our personalities. The way in which we deliver speech in a given situation can reveal many things (both to ourselves and others) about our feelings. To use speech effectively we must be:  
-(i) Confident  
-(ii) Aware of others  
-(iii) Relaxed  
-(iv) Clear in our thoughts  
-(v) Aware of how speech affects a situation.
+(i) Confident <br>
+(ii) Aware of others <br>  
+(iii) Relaxed  <br>
+(iv) Clear in our thoughts <br>  
+(v) Aware of how speech affects a situation. <br>
 
 With practice and experience, we can learn to use our voices so that we can carry emotions and feelings to others, ranging from stirring people to enthusiasm and action, to lulling gently into relaxation using soft words and tones.
 
