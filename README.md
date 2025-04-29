@@ -28,7 +28,7 @@
 ## 🔖 目次：Techniques of Modern Shamanism章構成（リンク付き）
 
 - [INTRODUCTION — 序文](techniques_annotation_01.md)
-- [THE SHAMANIC SURVIVAL — シャーマンのサバイバル](techniques_annotation_02.md)
+- [THE SHAMANIC SURVIVAL — シャーマニズムの生命力](techniques_annotation_02.md)
 - [THE SHAMANIC WORLDVIEW — シャーマンの世界観](techniques_annotation_03.md)
 - [ORIGINS OF SHAMANISM — シャーマニズムの起源](techniques_annotation_04.md)
 - [THE SHAMANIC TRADITION IN THE MODERN WORLD — 現代におけるシャーマニズム](techniques_annotation_05.md)
