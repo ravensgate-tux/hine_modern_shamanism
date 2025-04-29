@@ -34,7 +34,7 @@
 - [SHAMANIC TRADITION — シャーマニズムの伝統](techniques_annotation_05a.md)
 - [THE VALUE OF SHAMANISM — シャーマニズムの価値](techniques_annotation_05b.md)
 - [BASIC EXERCISES — 基礎練習](techniques_annotation_06.md)
-- [VISUAL TRAINING — 視覚トレーニング](techniques_annotation_07.md)
+- [VISUAL TRAINING — 視覚エクササイズ](techniques_annotation_07.md)
 - [SOUND EXERCISES — サウンドエクササイズ](techniques_annotation_08.md)
 - [SMELL EXERCISES — 嗅覚エクササイズ](techniques_annotation_09.md)
 - [SPACE EXERCISES — 空間のエクササイズ](techniques_annotation_10.md)
