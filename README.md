@@ -36,7 +36,7 @@
 - [VISUAL TRAINING — 視覚トレーニング](techniques_annotation_07.md)
 - [SOUND EXERCISES — サウンドエクササイズ](techniques_annotation_08.md)
 - [SMELL EXERCISES — 嗅覚エクササイズ](techniques_annotation_09.md)
-- [SPACE EXERCISES — 宇宙演習](techniques_annotation_10.md)
+- [SPACE EXERCISES — 空間のエクササイズ](techniques_annotation_10.md)
 - [SPEECH EXERCISES — スピーチ練習](techniques_annotation_11.md)
 - [TOUCH EXERCISES — タッチエクササイズ](techniques_annotation_12.md)
 - [STATUS SHIFTS — ステータス・シフト](techniques_annotation_13.md)
