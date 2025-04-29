@@ -5,11 +5,11 @@ As the word ‘en-chant-ment’ suggests, the voice has long been associated wit
 
 **Use of the Voice**  
 The way in which we use our voices is a powerful way of projecting our personalities. The way in which we deliver speech in a given situation can reveal many things (both to ourselves and others) about our feelings. To use speech effectively we must be:  
-(i) Confident <br>
-(ii) Aware of others <br>  
-(iii) Relaxed  <br>
-(iv) Clear in our thoughts <br>  
-(v) Aware of how speech affects a situation. <br>
+(i) Confident 
+(ii) Aware of others 
+(iii) Relaxed  
+(iv) Clear in our thoughts 
+(v) Aware of how speech affects a situation. 
 
 With practice and experience, we can learn to use our voices so that we can carry emotions and feelings to others, ranging from stirring people to enthusiasm and action, to lulling gently into relaxation using soft words and tones.
 
@@ -32,7 +32,7 @@ You will find it useful to explore the different ways in which you can use your 
 
 **〈声の使い方〉**  
 声の使い方は、そのまま自己の個性を投影する手段となる。ある状況における発声の仕方は、自他の感情を明らかにする。効果的な発話のためには、  
-(i) 自信、(ii) 他者への配慮、(iii) リラックス、(iv) 思考の明晰さ、(v) 発話が場に及ぼす影響への意識、が必要である。
+(i) 自信 <br> (ii) 他者への配慮 <br>(iii) リラックス<br>(iv) 思考の明晰さ<br>(v) 発話が場に及ぼす影響への意識<br>が必要である。
 
 訓練と経験を積めば、声を通して他者に感情や意志を伝える術を身につけることができる。熱狂を喚起する叫びから、穏やかな語りによる癒やしまで、声は自在に場を動かす。
 
