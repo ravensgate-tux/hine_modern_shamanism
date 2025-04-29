@@ -15,6 +15,7 @@
 ---
 
 <div align="center">
+**Phil Hine**
   <img src="Phil_Hine.jpg" width="400">
 
   Image of Phil Hine used with credit to the original source:<br>
