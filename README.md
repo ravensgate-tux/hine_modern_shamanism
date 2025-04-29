@@ -61,6 +61,15 @@
 本プロジェクトは、Phil Hineのこの精神を尊重しつつ、現代における個人探究型シャーマニズムの参考資料として意識と肉体の精密な制御を志向する立場からこの文書を翻訳・注釈し、紹介するものである。
 なお、本プロジェクトは非営利目的であり、原典の著作権を尊重しながら、出典を明示した形で運営されている。
 
+WALKING BETWEEN THE WORLDS
+Techniques of Modern Shamanism Volume One
+
+© Phil Hine 1986
+First released by Pagan News Publications 1986
+Online version released December 1998
+a5e@ndirect.co.uk
+BM Coyote, London WC1N 3XX, UK
+
 ---
 
 ## 🐌 補足
