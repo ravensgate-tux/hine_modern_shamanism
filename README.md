@@ -43,7 +43,7 @@
 ---
 
 ## 📚 この文書『Modern Shamanism vol.1』について
-『Modern Shamanism vol.1』は、Phil Hineによって1986年に書かれ、Pagan News Publicationsから発行された小冊子**『Techniques of Modern Shamanism Volume One: Walking Between the Worlds』**に基づいています。
+この『Modern Shamanism vol.1』は、Phil Hineによって1986年に書かれ、Pagan News Publicationsから発行された小冊子『Techniques of Modern Shamanism Volume One: Walking Between the Worlds』に基づいています。
 このテキストは、1998年12月、著者本人の承認のもとオンライン版が公開され、無料での個人学習・共有を認める形式で配布されました。Phil Hineは、自身の著作の多くを、非商用・教育目的での自由な利用に寛容な立場を取っています。
 本プロジェクトは、Phil Hineのこの精神を尊重しつつ、現代における個人探究型シャーマニズムの参考資料として意識と肉体の精密な制御を志向する立場からこの文書を翻訳・注釈し、紹介するものです。
 なお、本プロジェクトは非営利目的であり、原典の著作権を尊重しながら、出典を明示した形で運営されています。
