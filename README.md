@@ -15,10 +15,9 @@
 ---
 
 <div align="center">
-**Phil Hine**
   <img src="Phil_Hine.jpg" width="400">
 
-  Image of Phil Hine used with credit to the original source:<br>
+  Image of **Phil Hine** used with credit to the original source:<br>
   "Interview with Phil Hine" on Dreamflesh.com<br>
   <a href="https://dreamflesh.com/interview/phil-hine/">https://dreamflesh.com/interview/phil-hine/</a><br>
   Copyright remains with the original creator.
