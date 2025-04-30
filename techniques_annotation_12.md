@@ -1,4 +1,4 @@
-## 🇬🇧 TOUCH EXERCISES
+### 🇬🇧 TOUCH EXERCISES
 
 Our sense of touch - being able to feel pressure, heat, and texture, is something that we tend to take for granted. we only realise how much we rely on it, when it is lost to some part of the body. Touch is important in both survival and communication, particularly intimate communication. Speech is more of a social means of communication, whereas touch is much more intimate & personal. A single touch can carry more meaning than a thousand words. When gentle words and touch are combined, they can transport us to others worlds - in relaxation, sleep, visions, or the illumined darkness of lovers. 
 
