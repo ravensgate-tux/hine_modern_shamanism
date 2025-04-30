@@ -1,4 +1,4 @@
-## 🇬🇧 SMELL EXERCISES
+### 🇬🇧 SMELL EXERCISES
 
 Our sense of smell is probably the least understood, and most cundervalued of our senses. It is often difficult to describe a particular smell, unless we resort to comparing it with others. Smells are all around us, yet unless a fragrance is particularly sweet or pungent, most of them remain below the level of our conscious awareness. Many smells ass unnoticed, unless we make a conscious effort to pay attention to them. 
 
