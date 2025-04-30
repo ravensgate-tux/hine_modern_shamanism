@@ -1,4 +1,4 @@
-## 🇬🇧 SPEECH EXERCISES
+### 🇬🇧 SPEECH EXERCISES
 
 Speech is the main form of communication that we use. We are all capable of making a wide range of noises with which to express ourselves, but it is easy to undervalue the power of our voices. The voice is an important carrier of power, from sacred chants to working songs, prayer to battle chants – all have a powerful affect on us.  
 As the word ‘en-chant-ment’ suggests, the voice has long been associated with magical effects. Songs, chants, invocations, prayers and even nursery rhymes can be found in all cultures as ways of raising power, especially when combined with dance and music.
