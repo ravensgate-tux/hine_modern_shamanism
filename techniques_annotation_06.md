@@ -1,4 +1,4 @@
-## 🇬🇧 BASIC EXERCISES (1/3)
+### 🇬🇧 BASIC EXERCISES (1/3)
 
 At the outset, we should acknowledge that shamanic techniques have a certain glamour about them. Many people aspire to use shamanic-style practices and approaches to their own evolution. Two things should be stressed; it’s very hard work and, unless you have no other commitments at all, it will take you far longer than you think. The exercises contained in this book are ones that I (and others) have found useful in taking our first steps into a magical universe. 
 
