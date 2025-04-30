@@ -1,4 +1,4 @@
-## 🇬🇧 GOING DOWN
+### 🇬🇧 GOING DOWN
 
 What is a shaman but someone who’s been there, and make it back again. The Underworld Journey, they call it. A deliberate descent into the labyrinth, with only the thinnest of threads to hold onto. It comes to us all, in one way or another. Some make it - some don’t, but it never stops. The summons keeps a calling you back. And Down.
 
