@@ -24,7 +24,7 @@ Pleasure Pain
 
 Choose any of the above routes - pursued relentlessly enough, with determination and practice, you can use any of them to enter trance states. Shamanic group rituals are well-orchestrated uses of many of the above options. Only by repeatedly pushing yourself over the edge will you learn to override the tendency to jerk out of trance when you feel your control slipping. But the trance itself is the means, rather than the end - this should be some objective, such as entry into one of the innerworlds, possession by a spirit, or acts of will. Different shamanic cultures can sometimes be characterised by the dominant routes into trance. The nomadic tribes of the North American Plains used pain as a route into trance, demonstrating at the same time physical prowess; while the Kaula shamans of India enter trance via prolonged sexual ecstasy. Use of drugs to enter trance is, of course, an important part of shamanic activity, but I’ll go into that another time.
 
-## 🇯🇵 ジャック・ユア・ボディ...（1/4）
+### 🇯🇵 ジャック・ユア・ボディ...（1/4）
 
 ほとんどの魔術体系、特にシャーマニズムにおいて、トランス状態に入る能力は不可欠である。シャーマンの訓練の多くは、トランス状態に入る力とその制御法を身につけることに割かれており、というのもシャーマンの力の多くはこの状態に宿るからである。トランスに至る道筋は多数存在し、またその状態も一様ではなく様々な段階がある。このシリーズの目的は、いくつかのトランス状態を紹介し、可能であればそれに入るための実践的な技法も提供することである。この段階で断っておくと、一部のトランスへの道は危険を伴う——したがって何か試すのであれば、それはあなた自身の責任において行うべきである。
 
@@ -61,7 +61,7 @@ Choose any of the above routes - pursued relentlessly enough, with determination
 ドラッグの使用については、別の章で触れることにしよう。
 
 
-## 🐌 「知られざる呪術師」による注釈　(1/4)
+### 🐌 「知られざる呪術師」による注釈　(1/4)
 
 - 「トランス」とは何かを問う前に、私たちの「通常意識」とは何かがすでに曖昧だ
 私たちは「普段の自分」をある種の固定された意識状態として捉えがちだが、実際には白昼夢にふけったり、スポーツに没頭したりと、日常の中でも自然に「変性意識」を行き来している。この連続性のなかで、シャーマニック・トランスは特定の状態として切り出されるべきではなく、むしろ意識の地形の一部として理解されるべきだろう。
@@ -78,7 +78,7 @@ Choose any of the above routes - pursued relentlessly enough, with determination
 
 
 ---
-## 🇬🇧 JACK YOUR BODY...（2/4）
+### 🇬🇧 JACK YOUR BODY...（2/4）
 
 Why enter Trance states?
 Here are some good reasons:
@@ -96,7 +96,7 @@ Contrast this with the mythic world available to someone in modern Britain - an 
 5) Demonstration of Ability In our culture, you may be able to get away with impressing people as a shaman because you’ve plowed through the complete works of Kaledon Naddair (no mean feat!). Apprentice shamans however, are sometimes required to enter trance states as a demonstration of their prowess. It is quite common for spirits to test you by placing you under extreme psychic pressure, so that the experience becomes a compressed version of the underworld initiation. Some spirits, demons, & deities will do their best to drive you bananas, only yielding their wisdom when you have proved yourself equal to the task. The spirits of psychotropics are particularly prone to that kind of behaviour, but I’ll save that for another time. There are other good reasons for entering trance but I’ve forgotten them, so I’ll move on.
 You can’t become a shaman in your bedsit, in isolation from anyone else, although periods of deliberate isolation are neccesary from time to time. Also, there aren’t many instructors in shamanism hanging about (not unless you commit yourself to an endless round of weekend workshops), so you will have to learn from everyone and everything. It’s important to learn to recognise the onset of changes in awareness, and explore all possible routes into trance. Learn to trust your own senses and your intuition, rather than the internal dialogue or what you think you “ought” to do.
 
-## 🇯🇵 ジャック・ユア・ボディ...（2/4）
+### 🇯🇵 ジャック・ユア・ボディ...（2/4）
 
 なぜトランス状態に入るのか？
 ここにいくつかの正当な理由を挙げておく。
@@ -125,7 +125,7 @@ You can’t become a shaman in your bedsit, in isolation from anyone else, altho
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈　(2/4)
+### 🐌 「知られざる呪術師」による注釈　(2/4)
 
 - この節で語られる目的の多くは、魔術における「意図の明確化」や「精神の明晰化」と同じ意味を持つ。変性意識状態（ASC）とはそのための手段にすぎず、目的ではない。
 - シャーマンの役割として「神話の媒介者」「共同体のガイド」という側面が強調されている点は重要。これは古典的な宗教学における「神話論」の視点と合致する。
@@ -133,7 +133,7 @@ You can’t become a shaman in your bedsit, in isolation from anyone else, altho
 
 ---
 
-## 🇬🇧 JACK YOUR BODY...（3/4）
+### 🇬🇧 JACK YOUR BODY...（3/4）
 
 Dreams
 Much instruction can be gained via dreaming. Prospective shamans may even be identified by virtue of the content of their dreams, and it is not unusual for people to meet their guides in dreams. We tend to think of dreams as a very personal aspect of our experience, so it is sometimes disconcerting when someone that we know appears in our dreams. In dreams, historical time is abolished, and distance is no object. We may witness events from the past, future, or alternative presents. Despite appearances, much of our dream content is controlled by external agencies. If you study Jung for long enough, you will have “Jungian” dreams. It can be far more rewarding to develop a personal dream-language, or avoid any rigid system of interpretation. I tend to find that prolonged magical activity of any sort will mold the contents of your dreams accordingly.
@@ -163,7 +163,7 @@ Lucid dreams are characterised by the fact that in a lucid dream, you are aware 
 
 ---
 
-## 🇯🇵 ジャック・ユア・ボディ...（3/4）
+### 🇯🇵 ジャック・ユア・ボディ...（3/4）
 
 夢
 夢を通して多くの教えを得ることができる。将来シャーマンとなるべき人間は、その夢の内容によって識別されることすらあるし、夢の中で自らのガイドに出会うという話も珍しくない。我々は夢を非常に個人的な経験とみなす傾向があるため、知っている誰かが夢に現れると戸惑うことがある。夢の中では「歴史的な時間」は消え去り、距離も意味をなさなくなる。過去、未来、あるいは別の現在の出来事を目撃することすら可能である。
@@ -199,7 +199,7 @@ NAWI REMOD SPHRIK
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈　(3/4)
+### 🐌 「知られざる呪術師」による注釈　(3/4)
 
 - 夢は「内的世界」への最初の鍵である
 シャーマニズムにおいて、夢は単なる睡眠中の副産物ではなく、精霊・先祖・無意識との通路とみなされる。とりわけ予知夢や夢の中での出会いは、個人的なメッセージとして重視される。現代のオカルティストも、夢を実践の中核に据える者は少なくない。
@@ -215,7 +215,7 @@ NAWI REMOD SPHRIK
 
 ---
 
-## 🇬🇧 JACK YOUR BODY...（4/4）
+### 🇬🇧 JACK YOUR BODY...（4/4）
 
 Shape-Shifting
 This is a very common exercise - taking on the form of an animal to gain (temporarily), an ability or quality associated with it. Some sports psychologists tell athletes to pick a particular animal and visualise themselves as it during warm-up exercises -which is more or less what the shaman does, except that the shaman is more likely to use animal skins, masks, drugs, postural and vocal mimicking as aids. The Hermetic Order of the Golden Dawn called this exercise ‘Assuming the God-forms’, whereby the practitioner used a variety of props to ‘assume’ the form of a particular mythic figure, uniting themselves with it until they took on the power associated with that figure. This can be worked towards as a group game, whereby people pick an animal and mimick its behaviour. Shamans tend to have particular favourites - in some Central American tribes, the words for shaman and jaguar are the same. The shamans of the Jivaro people, who practice headhunting and head-shrinking, assume the forms of giant tarantulas. Even forms of martial arts can be related to animals - the Crane, Serpent and Panther being three Eastern forms.
@@ -231,7 +231,7 @@ The centre of the shaman’s cosmology is the axis mundi - the pole, ladder, or 
 
 ---
 
-## 🇯🇵 ジャック・ユア・ボディ...（4/4）
+### 🇯🇵 ジャック・ユア・ボディ...（4/4）
 
 変身（Shape-Shifting）
 これは非常に一般的なエクササイズであり、動物の姿をとることで、その動物に結びついた能力や特質を一時的に得ることを目的としている。スポーツ心理学者の中には、アスリートに対してウォームアップ中に特定の動物を思い浮かべ、自分がその動物になったと想像するよう助言する者もいる。これはシャーマンが行うこととほとんど変わらない。ただし、シャーマンの方が、動物の皮や仮面、薬物、身体の姿勢、声の模倣といった道具を使用する傾向がある。ヘルメス派ゴールデン・ドーン協会では、これを「神の姿を取ること（Assuming the God-forms）」と呼び、修練者はさまざまな道具を用いて特定の神話的存在の姿をとり、その力と一体化するまで自己をその存在に同調させるのだ。この技法は、集団で行うゲームとしても応用できる。参加者それぞれが動物を選び、その動作を模倣する。シャーマンには特定の「お気に入り」が存在することも多く、たとえば中南米の部族の中には、「シャーマン」と「ジャガー」が同義語になっている文化もある。首狩りと頭部縮小術で知られるヒバロ族のシャーマンは、巨大なタランチュラに変身するという。武術でさえ動物と結びつけられており、東洋の武術では鶴、蛇、豹などのスタイルが存在する。
@@ -254,7 +254,7 @@ The centre of the shaman’s cosmology is the axis mundi - the pole, ladder, or 
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈　(4/4)
+### 🐌 「知られざる呪術師」による注釈　(4/4)
 
 -「変身」とは感覚の再構築である
 シェイプシフティングとは、動物や神格の姿を借りて「自分以外の感覚で世界を経験する」ワークである。演技、武術、創作、夢見、治癒といった幅広い分野に応用可能であり、身体知と象徴操作の統合的技法でもある。
