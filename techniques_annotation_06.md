@@ -11,7 +11,7 @@ As I see it, the basic essentials of the shamanic approach are:<br>
 
 As I said in the introduction, you can’t go off and ‘learn to be a　shaman’ on your own. Unlike the Western-Mediterranean tradition of ‘secret schools’, the shaman does not learn in isolation from others. You need a community, no matter how small or spread out, to live and learn in. It is essential to get feedback, advice and criticism from others. Anyone can declare themselves to be anything, if they themselves are the only important opinions in their mental walnuts. Likewise, you can enter a particular system and earn for yourself all sorts of fancy degrees and titles, but out in the big wide world, the only thing that matters is competence - being able to deliver the goods. Which, given the complexity and diversity of our society, could range from blessing houses, officiating at funerals and marriages, to helping someone else get their Income Support claim through. A great deal depends on what skills you have, what you are prepared to do, and in what directions you wish to go. As far as I can see, it doesn’t matter what system you adopt, so long as the fruits of your activity are relevant to you, and better yet, meaningful to your clients.
 
-## 🇯🇵 基本エクササイズ（1/3）
+### 🇯🇵 基本エクササイズ（1/3）
 
 シャーマニズム的な技法には、ある種の「グラマー（幻想的魅力）」がつきまとう。多くの人がシャーマン風の実践を自らの精神的進化の手段として活用したいと願っているが、ここで二つの点を強調しておきたい。まず、それは非常に困難な道であるということ。そして、もしあなたに別の手がないのでない限り、思っているよりも遥かに時間がかかるということだ。本書に収録されたエクササイズは、私自身や他の仲間たちが「魔術的な世界」への最初の一歩として有用だったと感じたものである。
 
@@ -27,21 +27,21 @@ As I said in the introduction, you can’t go off and ‘learn to be a　shaman�
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈（1/3）
+### 🐌 「知られざる呪術師」による注釈（1/3）
 
 - シャーマンの責任とは、学位や証明書を持つことではなく、「その場で結果を出す力」を持っていることである。
 - 自称「魔術師」や「呪術師」であることは自由だが、実際に結果を出せるかどうかはまったく別の話である。
 - 初学者は一つの体系に集中した方が良いが、経験を積むにつれ、術理を超えて多様なアプローチを吸収するのが自然な流れとなる。
 
 ---
-## 🇬🇧 BASIC EXERCISES (2/3)
+### 🇬🇧 BASIC EXERCISES (2/3)
 
 A Note on Practice
 One of the aims of the exercises in this book is to help you break the　sensory or BodyMind habits which we unconsciously develop. In　effect, to extend our perception from the ordinary into the extra-ordinary. This requires practice which, in turn, requires　determination, tenaciousness, and at times, sheer bloodymindedness.　In attempting these basic exercises, you will encounter the‘enemy　within’ - your own inertia and resistance to learning new skills.　This is a far more tricky opponent than any spirit you can meet in　dream or vision. As you probably already know, it is easier to come　up with an excuse for delaying an exercise just for today than to　actually get down and do it. I would strongly recommend that all exercises, experiments,　insights and experiences be recorded in some form of workbook.　This will provide you with a continuous account of your progress,　and is an invaluable resource for you to go back and refer to in the　future.
 
 ---
 
-## 🇯🇵 基本エクササイズ（2/3）
+### 🇯🇵 基本エクササイズ（2/3）
 
 ---
 
@@ -50,14 +50,14 @@ One of the aims of the exercises in this book is to help you break the　sensory
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈（2/3）
+### 🐌 「知られざる呪術師」による注釈（2/3）
 
 - 悪霊と戦う前に、自分自身の怠惰と戦わなければならない。これはすべての実践者にとって最初で最大の戦場である。
 - 「やらない理由」は簡単に見つかるが、「やるための小さな工夫」──時間を区切る、場所を決める、道具を準備する──を見つけるのが重要である。
 - 魔術とは結果を出す技術である。だからこそ、最初の一歩は「実際にやること」──小さな実行が、魔術的世界への扉を開く鍵である。
 
 ---
-## 🇬🇧 BASIC EXERCISES (3/3)
+### 🇬🇧 BASIC EXERCISES (3/3)
 
 The Three Stages of Learning
 
@@ -70,7 +70,7 @@ of learning:
 
 It is definitely a struggle to get over the ‘hump’ of the second　phase, but if you are at least aware of what is happening, then it　helps you not to give up at the first signs of inertia.
 
-## 🇯🇵 基本エクササイズ（3/3）
+### 🇯🇵 基本エクササイズ（3/3）
 
 どんなエクササイズであっても、実践を通して私たちは3つの段階を経ることになる。
 1.  最初は、その新しさによって急速に上達しているように感じられ、新しい練習から明確な成果を得ているという実感が湧く。
@@ -81,7 +81,7 @@ It is definitely a struggle to get over the ‘hump’ of the second　phase, bu
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈（3/3）
+### 🐌 「知られざる呪術師」による注釈（3/3）
 
 - 魔術の学びは「坂道」というより「階段」である。平坦に見える時期こそ、無意識の中で力がゆっくり醸成されている。
 - 「飽きた」や「効果がない」と感じたときこそ、次の段階に入る直前かもしれない。山の天気と同じく、好転の兆しは曇り空の裏に潜んでいる。
