@@ -1,4 +1,4 @@
-## 🇬🇧 INTRODUCTION
+### 🇬🇧 INTRODUCTION
 
 This book is a collection of practical exercises, the aim of which is to enhance awareness of the world around us. The first part of this book deals with basic sensory exercises, while the second half deals with trance states, and some of the basic group dynamics involved in helping other people into them. Using these techniques will not make you a ‘shaman/shamanka’, but they are drawing on the shamanic outlook - which depends from an enhanced awareness of our environment, and the ability to mediate between the everyday, and the sacred aspects of our experience. “Walking between the Worlds” requires that we learn to extend our perceptions from the ordinary, to see the extra-ordinary which lies within it. Many of the techniques require group exploration, since it is impossible to grow in total isolation from others.
 
