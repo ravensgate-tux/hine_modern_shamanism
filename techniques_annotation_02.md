@@ -1,4 +1,4 @@
-## 🇬🇧 THE SHAMANIC SURVIVAL
+### 🇬🇧 THE SHAMANIC SURVIVAL
 
 The Shaman is one of the most ancient and one of the most enduring figures in human evolution. Shamanism is the source of both Magic and Religion, and as Mircea Eliade put it, is “an archaic technique of ecstasy”. Its structural elements can be traced well back into the Upper Palaeolithic era, and these elements are essentially similar throughout many different cultures, in different frames of time. Even though the surface details of the shamanic world-view tends to differ even within particular cultures, the underlying principles remain similar, supplying some elemental requirement of the human psyche which has remained constant over a period of hundreds of thousands of years.
 
