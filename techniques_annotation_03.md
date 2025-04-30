@@ -1,4 +1,4 @@
-## 🇬🇧 THE SHAMANIC WORLD-VIEW
+### 🇬🇧 THE SHAMANIC WORLD-VIEW
 
 The term “shaman” is derived from the Siberian Tungusic root “saman”. The word Shaman usually refers to a male practitioner, whilst the word shamanka refers to a female. As a loose generalisation, it is possible to draw a composite picture of the world-view of the shaman. The universe is multi-layered, with both a celestial overworld and a chthonic underworld, with appropriate spirit rulers and other denizens.
 There are also rulers of the principal directions or quarters. The levels of the universe are connected by a central axis, the axis mundi, which appears as a sky ladder or world-tree. It is via this central axis that the shaman gains entry to all the levels of the universe.
