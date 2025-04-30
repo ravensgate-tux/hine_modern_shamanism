@@ -13,7 +13,7 @@ memories and images to well up, and pursue each image that the smell evokes.
 Building up a Smellphabet
 Rather than relying on someone else’s attributions of perfumes & incenses, it is useful for you to try and build up your own. this is very useful if you wish to make your own incense, or if you want to use aromatics in healing or trance work.
 
-## 🇯🇵 嗅覚エクササイズ
+### 🇯🇵 嗅覚エクササイズ
 
 嗅覚は、おそらく私たちの五感の中でもっとも理解されておらず、もっとも過小評価されている感覚だろう。特定の匂いを言語化するのは難しく、他の匂いと比較してようやく説明できる程度である。匂いは常に私たちの周囲にあるが、特に甘い香りや強烈な臭いでない限り、多くの匂いは意識の下層にとどまり、見過ごされてしまう。
 
@@ -29,7 +29,7 @@ Rather than relying on someone else’s attributions of perfumes & incenses, it 
 
 ---
 
-## 🐚「知られざる呪術師」による注釈
+### 🐚「知られざる呪術師」による注釈
 
 - 現代人は「見る」「聞く」ことに偏りがちで、「匂い」による感覚認知は過小評価されている。だが匂いは、記憶・情動・霊的感覚を結びつける鍵となる。
 - 体臭・フェロモン・空間の香り──これらは無意識のうちに他者との関係性に影響を与えており、魔術儀式やヒーリングにおいても重要な情報チャンネルとなる。
