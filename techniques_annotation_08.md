@@ -1,4 +1,4 @@
-## 🇬🇧 SOUND EXERCISES
+### 🇬🇧 SOUND EXERCISES
 
 We are continually bombarded by sounds from all directions, from the ceaseless flow of industrial and electronic noise, to the slow thump of our heartbeats and the rush of blood through our veins. We tend to spend more time deliberately not listening, screening information out, than we do actually paying attention to what is going on. Our brains learn to distinguish between noises that are ‘significant’ and those which do not threaten us. There are plenty of reports for example, of soldiers who could sleep through an artillery barrage, but be wakened up by the sound of someone sliding back a rifle bolt a few feet away.
 
