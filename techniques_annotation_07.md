@@ -4,13 +4,13 @@ Our sense of vision tends to be the major route by which we perceive what is goi
 
 ---
 
-## 🇯🇵 視覚エクササイズ (1/3)
+### 🇯🇵 視覚エクササイズ (1/3)
 
 視覚は、私たちが周囲の世界を知覚する主要な手段となっている。私たちは日常的に、環境から無数の視覚情報を浴びせられている。たとえ目を閉じたとしても、私たちは細部や出来事に富んだ内的な世界を視覚化することができる。視覚に強く依存しているため、この感覚を失うと、他の感覚が自動的に強化される傾向がある。視覚についてまず強調すべきことは、私たちは周囲の多くのものを実は見落としている、という点である。以下のエクササイズを試してみてほしい。
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈 (1/3)
+### 🐌 「知られざる呪術師」による注釈 (1/3)
 
 - 頻繁に見ているはずの交差点にある信号機さえ、あらためて質問すると3色の並びを自信をもって答えられない人は多い。
 - 視覚化のトレーニングは重要であるが、そのためには意図を持って観察するということが重要である。もし二人の人物を見るのであればただ見るのではなく距離や関係性も観察してみよう。
@@ -18,7 +18,7 @@ Our sense of vision tends to be the major route by which we perceive what is goi
 
 ---
 
-## 🇬🇧 SIGHT EXERCISES (2/3)
+### 🇬🇧 SIGHT EXERCISES (2/3)
 
 Walking a Route  
 This involves taking a route that you are used to walking, so much so that you don’t tend to notice the details of things along the route. This time, try to be intensely aware of all the details of things around you, and later, write down everything that you noticed. A group variant on this exercise is to move a group of people from one area to another, and ask them to note down everything they noticed about the intervening space.
@@ -31,7 +31,7 @@ Take a day (or even a week) and pick a colour. Try to be aware of how that colou
 
 ---
 
-## 🇯🇵 視覚エクササイズ (2/3)
+### 🇯🇵 視覚エクササイズ (2/3)
 
 【ルートを歩く】  
 普段歩き慣れている道を使ったエクササイズである。何度も通っている道では、周囲の細かい景色に意識が向かなくなる傾向がある。今回は、ルートにある細部に意識を向けながら歩いて、気づいたことをすべて書き出してみる。グループで行う場合は、メンバーをワークの出発点から別の場所へ移動させて、その途中で気づいたことをそれぞれ記録してもらう。
@@ -44,7 +44,7 @@ Take a day (or even a week) and pick a colour. Try to be aware of how that colou
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈 (2/3)
+### 🐌 「知られざる呪術師」による注釈 (2/3)
 
 - いつも歩いている道でも、意識を変えるだけで「未知の空間」として立ち上がってくる。知覚は意図によって作ることができる。
 - 「キムのゲーム」は記憶力だけでなく、観察時の「焦点の合わせ方」を鍛える実践でもある。視覚情報を意図的に収集し、意識に刻む訓練となる。
@@ -52,7 +52,7 @@ Take a day (or even a week) and pick a colour. Try to be aware of how that colou
 
 ---
 
-## 🇬🇧 SIGHT EXERCISES (3/3)
+### 🇬🇧 SIGHT EXERCISES (3/3)
 
 Animal/Plant/Colour
 It can be interesting (and fun) to discover new ways of looking at other people. A group exercise that we tried out during the Shamanic Development Course was for everyone in the group to study each other for a few minutes, and to assign each person an animal, plant and colour which they felt was appropriate to that person. Each person then read out their list in turn. Occasionally, people’s attributions were remarkably similar for the same person. It’s possible to use this exercise as the basis of a discussion on how people’s attributions relate to the four cardinal elements and other symbolic associations.
@@ -62,7 +62,7 @@ From looking at other people we pick up a vast range of signals and clues, many 
 “Seeing Auras”
 There is an old story about a young man who read a book about the auras of trees and their different colours. He spent a great deal of time trying to concentrate on seeing the auras of trees; alas, with little success. One day, he considered a Rowan tree, and wondered what the aura would look like, if only he could see it. He thought that it would be a kind of golden, russet-brown, with yellowish edges and....and suddenly realised that he was seeing the tree’s aura. he also realised that seeing auras was not so much about seeing something physical, more a case of opening your mind to impressions. As sight is our dominant sense, we tend to interpret these impressions in terms of visual images such as colours, but there is no reason why we cannot use other senses as well. It’s also worth remembering that very often, we see what we expect to see, not what is actually there.
 
-## 🇯🇵 視覚エクササイズ（3/3）
+### 🇯🇵 視覚エクササイズ（3/3）
 
 【動植物・色・イメージ】  
 他者を観察する新たな手法として「動物」「植物」「色」を用いるエクササイズがある。シャーマン養成のコースでは、参加者同士で数分間互いを観察し、その人物にふさわしい動物・植物・色を割り当てるという試みを行った。全員の結果を共有すると、同一人物に対して驚くほど類似した回答が出ることもある。これは、個々の判断が四大元素や象徴体系とどう関係しているかを議論する出発点にもなる。
@@ -75,7 +75,7 @@ There is an old story about a young man who read a book about the auras of trees
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈（3/3）
+### 🐌 「知られざる呪術師」による注釈（3/3）
 
 - 人は無意識に他人に「意味」や「属性」を印象だけで投影している。だからこそ意識的に「視覚」をフルに使って目からの情報として観察し、他者をもういちど象徴で読む訓練には意味がある。
 - シャーマンが「色」や「動物」や「植物」を通じて他者を読むとき、それは観察した他者の魂の様相を象徴に翻訳（あの人柴犬みたいだ、等に）している作業である。
