@@ -1,4 +1,4 @@
-## 🇬🇧 JACK YOUR BODY...（1/4）
+### 🇬🇧 JACK YOUR BODY...（1/4）
 
 The ability to enter trance states is a prerequisite of most magical systems, particularly Shamanism. A good deal of a shaman’s training is concerned with cultivating the ability to enter trance states and control them, for it is in such states, that much of the shaman’s power resides. There are many routes into trance, and indeed, there are many different shades of trance. The aim of this series is to discuss some trance states, where possible giving practical techniques for entering them. At this point it may be appropriate to make a disclaimer - some routes into trance are dangerous - so if you try anything out, the responsibility is yours alone.
 
