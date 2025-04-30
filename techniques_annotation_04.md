@@ -1,4 +1,4 @@
-## 🇬🇧 THE ORIGINS OF SHAMANISM
+### 🇬🇧 THE ORIGINS OF SHAMANISM
 
 The roots of shamanism are lost in antiquity. However we do know, that given the similarities between shamanistic practices in the new world and Europe, that the fundamental elements of shamanism had been established as the first Paleo-Americans began to move across the Bering land bridge which connected Siberia to Alaska. This bridge disappeared about 12,000 years ago, as the Artic glaciers melted.
 
