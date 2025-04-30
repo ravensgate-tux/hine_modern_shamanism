@@ -20,7 +20,7 @@ Conversely, some people go out of their way to disguise or reject the high statu
 
 ---
 
-## 🇯🇵 ステータス・シフト（1/3）
+### 🇯🇵 ステータス・シフト（1/3）
 
 シャーマンは、トリックスター（いたずら者）、聖なる道化、ヒーラー、仲介者、ソーサラー（術者）といったさまざまな役割を担う存在として知られている。こうした多面的な側面を「知識として知る」ことと、実際の状況で「演じる」ことはまったく別の話である。それには自信、洞察、共感力、そしてさまざまな役割を状況に応じて演出・投影するスキルが必要だ。その基礎的な練習の一つが、「ステータス・シフト（状態変化）」の観察と実践である。
 
@@ -51,7 +51,7 @@ Conversely, some people go out of their way to disguise or reject the high statu
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈（1/3）
+### 🐌 「知られざる呪術師」による注釈（1/3）
 
 - ステータスとは社会的な「階層」ではなく、エネルギー的・象徴的な「位置」である。それを自在に操作できるのが現代シャーマンの強みである。
 - 禅問答のように、あえて意味を壊すことで「教えられる側」の前提を崩し、学びの空白を生み出す技法は、魔術的教育にも応用できる。
@@ -59,14 +59,14 @@ Conversely, some people go out of their way to disguise or reject the high statu
 
 ---
 
-## 🇬🇧 STATUS SHIFTS (2/3)
+### 🇬🇧 STATUS SHIFTS (2/3)
 
 Gurus and Disciples
 This is a two-player game to demonstrate status shifts and how we tend to collude with each other when we play them. One player is a Guru, licensed to pontificate on all manner of subjects, while the other is the disciple, who asks awed questions and hangs on the master’s every word. After trying this for a few minutes, swap the roles around. the game can also be played using gibberish instead of speech.
 
 The lowering and raising of status for a sacred purpose is very common throughout all cultures. Popular myths often feature the king who changes places with a beggar, or the god who comes to the earth in mortal guise. The fool-king, who is accorded great status for a day and then ritually sacrificed, appears in many different cultures, from Europe to the Aztec civilisation. This theme is particularly well-treated in the pagan classic, The Wicker Man. In this film, the policeman ‘victim’ is given very high status - as only a very high status sacrifice will appease the gods.
 
-## 🇯🇵 ステータス・シフト（2/3）
+### 🇯🇵 ステータス・シフト（2/3）
 
 この演習は、ステータスの変化とそれに対する人々の反応を体験的に学ぶための二人一組のゲームである。一人は「グル（導師）」となって、どんなテーマについても自信満々に語る。もう一人は「弟子」として、畏敬の念を持ちつつ質問を投げかけ、導師の言葉に耳を傾ける。数分経ったら、役割を交代する。言語の代わりに意味のない「ジベリッシュ（ナンセンス言）」を使って行うのも効果的だ。
 
@@ -74,7 +74,7 @@ The lowering and raising of status for a sacred purpose is very common throughou
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈（2/3）
+### 🐌 「知られざる呪術師」による注釈（2/3）
 
 - ステータスの上昇は、力の象徴だけではなく「犠牲の適格性」を意味することもある。これは非常に逆説的だが重要な視点である。
 - グルと弟子のゲームでは、ジベリッシュを使うことで「言語そのものへの依存」から解き放たれ、ステータスという演出の本質に迫ることができる。
@@ -82,7 +82,7 @@ The lowering and raising of status for a sacred purpose is very common throughou
 
 ---
 
-## 🇬🇧 STATUS SHIFTS (3/3)
+### 🇬🇧 STATUS SHIFTS (3/3)
 
 It is useful for the shamanic practitioner to become adroit at shifting status to suit a particular situation. One problem is that we tend to develop a particular status projection, and manoeuvrer ourselves into a position where we can adopt it and thereby feel safe. A Shamanka in her own culture is automatically ascribed a great deal of high status by her people and so her different roles are still based on that status. Also, it is part of the shaman’s role to momentarily disrupt the status conventions of the tribal culture. Perhaps the nearest figure we have to this is the comedian or street performer. In our culture, anyone can declare themselves to be a shaman, but this won’t automatically mean that you are accorded high status. This will depend very much on the situation, how much you are able to project yourself, and also being good at what you do. If you are truly competent, then your clients will accord you high status. I’m not saying that your clients should worship the dust beneath your feet, but on the other hand, if they don’t have much faith in your ability to help them, then working with them can be more difficult. A good deal of practical shamanism depends on your personal charisma, and how you use it.
 
@@ -91,7 +91,7 @@ had finished the mask workshop, however, I dropped the serious leader role and w
 
 ---
 
-## 🇯🇵 ステータス・シフト（3/3）
+### 🇯🇵 ステータス・シフト（3/3）
 
 シャーマニックな実践者にとって、状況に応じて自分のステータスを巧みにシフトさせる能力は非常に重要である。しかし、人はつい「自分が安全に振る舞えるステータス」ばかりを選びがちで、いつの間にかその型に囚われてしまうことがある。ある文化において、シャーマン（シャマンカ）はその社会構造の中で自動的に高い地位を与えられている。そのため、彼らが演じる複数の役割もすべて、その高いステータスの枠内で理解される。しかし本来、シャーマンの役割には「部族社会におけるステータス秩序を一時的にかき乱す」ことも含まれている。現代においてこれに最も近いのは、コメディアンやストリートパフォーマーかもしれない。我々の文化では、誰でも自分で「私はシャーマンです」と名乗ることができるが、それによって自動的に高い地位が与えられるわけではない。それは状況に応じてどれだけ自分を投影できるか、そしてどれだけ自分の技能を実証できるかに大きく依存している。本当に有能であれば、クライアントたちの方が自然とその人に高い地位を与えるようになる。もちろん「足元の塵を崇めよ」とまで言うつもりはないが、少なくとも「この人は信頼できない」と思われてしまえば、実践は困難になる。
 
@@ -99,7 +99,7 @@ had finished the mask workshop, however, I dropped the serious leader role and w
 
 ---
 
-## 🐌 「知られざる呪術師」による注釈（3/3）
+### 🐌 「知られざる呪術師」による注釈（3/3）
 
 - 「誰でもシャーマンを名乗れる」社会では、本物かどうかを決めるのは他者の「投影」と「観察」である。ゆえに、実力と演出の両方が必要となる。
 - グループワークでのステータス操作は、場のエネルギー構造を設計する行為であり、カオスの中の秩序を保つ魔術的建築行為である。
