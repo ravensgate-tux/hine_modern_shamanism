@@ -1,4 +1,4 @@
-## 🇬🇧 STATUS SHIFTS (1/3)
+### 🇬🇧 STATUS SHIFTS (1/3)
 
 It is well known that the shaman encompasses many different roles - such as that of trickster, sacred clown, healer, mediator and sorceror. it is one thing to know of these different facets, but quite another to actually assume them in a practical situation. this requires not only confidence, insight and empathy, but also some kind of acquired skill in knowing how to present and project yourself in different roles. One of the basic ways of approaching this is to look at Status Shifts.
 
