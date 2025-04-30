@@ -1,4 +1,4 @@
-## 🇬🇧 THE　VALUE OF SHAMANIC
+### 🇬🇧 THE　VALUE OF SHAMANISM
 
 The Value of Shamanism Having said that, we cannot dismiss shamanism as having no relevance to modern society. Obviously it does, but this very much depends how you approach it. In an age where most information is transmitted via print or electronics, the value of adopting shamanic techniques lies in recovering knowledge from within, and also in relating with other people. Ecstasy can be freed from the purely private domain and returned to the communal. Also, in trying to regain the spirit of our collective past, we can regain a sense of community with our ancestors, using techniques which carry us back to our forebears on the savannah plains of Africa. this can endow us with a sense of community that surpasses all cultural differences. In learning to see the world as shamans, we reconnect with ourselves, and can adapt much easier to the world around us.
 
