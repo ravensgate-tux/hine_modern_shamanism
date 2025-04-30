@@ -1,4 +1,4 @@
-## 🇬🇧 SIGHT EXERCISES (1/3)
+### 🇬🇧 SIGHT EXERCISES (1/3)
 
 Our sense of vision tends to be the major route by which we perceive what is going on around us. We are ontinually bombarded to a vast array of visual images from our environment, and even when we close our eyes, can visualise a world just as rich in detail and events. We rely on sight so much that as soon as we lose this sense, our others are automatically magnified. The first point to stress about sight is that there is much around us that we don’t notice. Try out the following exercises:
 
