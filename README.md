@@ -42,7 +42,7 @@
 - [TOUCH EXERCISES — タッチエクササイズ](techniques_annotation_12.md)
 - [STATUS SHIFTS — ステータス・シフト](techniques_annotation_13.md)
 - [JACK YOUR BODY — ジャック・ユア・ボディ](techniques_annotation_14.md)
-- [CHEMICAL AIDS — ケミカル・エイズ（薬物について）](techniques_annotation_15.md)
+- [CHEMICAL AIDS — ケミカル・エイズ](techniques_annotation_15.md)
 - [GOING DOWN — 降下](techniques_annotation_16.md)
 - [FURTHER READING — さらなる探求のために](techniques_annotation_17.md)
 
