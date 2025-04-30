@@ -19,7 +19,7 @@ until both groups broke away, muttering angrily to each other. The problem was, 
 
 ---
 
-## 🇬🇧 SPACE EXERCISES (2/3)
+### 🇬🇧 SPACE EXERCISES (2/3)
 
 Awareness of peoples’ space needs is important when it comes to healing, and it’s important to know when to keep your distance, and when to move closer to someone. This very much depends on honing your ability to observe, empathise with, and intuitively assess others. People who are very nervous or anxious tend to curl up so that their body extends into as little space as possible. The more confident we are, the more we use our body to extend our own space. Our everyday perception of space is that it separates and insulates us from objects and other people. This is a perceptual ‘trap’ which we can grow out from, by experiencing space in different ways.
 
@@ -39,7 +39,7 @@ Awareness of peoples’ space needs is important when it comes to healing, and i
 
 ---
 
-## 🇬🇧 SPACE EXERCISES (3/3)
+### 🇬🇧 SPACE EXERCISES (3/3)
 
 Blind Walks  
 A simple way of exploring our surroundings in a different way is to do so blindfolded, being led around by a partner. Try it for a few minutes and then swap over. Try it again, but this time attempt to sense what is in front of you, as though the space around you was an organ of perception.
