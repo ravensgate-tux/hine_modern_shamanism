@@ -65,6 +65,8 @@ This is a two-player game to demonstrate status shifts and how we tend to collud
 
 The lowering and raising of status for a sacred purpose is very common throughout all cultures. Popular myths often feature the king who changes places with a beggar, or the god who comes to the earth in mortal guise. The fool-king, who is accorded great status for a day and then ritually sacrificed, appears in many different cultures, from Europe to the Aztec civilisation. This theme is particularly well-treated in the pagan classic, The Wicker Man. In this film, the policeman ‘victim’ is given very high status - as only a very high status sacrifice will appease the gods.
 
+---
+
 ### 🇯🇵 ステータス・シフト（2/3）
 
 この演習は、ステータスの変化とそれに対する人々の反応を体験的に学ぶための二人一組のゲームである。一人は「グル（導師）」となって、どんなテーマについても自信満々に語る。もう一人は「弟子」として、畏敬の念を持ちつつ質問を投げかけ、導師の言葉に耳を傾ける。数分経ったら、役割を交代する。言語の代わりに意味のない「ジベリッシュ（ナンセンス言）」を使って行うのも効果的だ。
