@@ -140,14 +140,14 @@ Dreams are a useful starting point for entering the innerworlds. It can be usefu
 
 If you’re going to get into dream-life seriously then it’s essential to keep a dream diary. Writing down your dreams helps you remember them, and is indispensable when you start to evolve your own dream-language. Here’s some practical exercises:
 
-1) Dream Control
+1) Dream Control<br>
 The easiest way to begin this is to choose something that you want to dream about, and visualise it until you fall asleep. A mantric sigil is also useful, for example: 
 
-I WANT TO DREAM OF THE MONKEY SPIRIT
-Knock out all repeating letters & compress
-I WAN ODREM FHK SPIR
-rearrange
-NAWI REMOD SPHRIK
+I WANT TO DREAM OF THE MONKEY SPIRIT<br>
+Knock out all repeating letters & compress<br>
+I WAN ODREM FHK SPIR<br>
+rearrange<br>
+NAWI REMOD SPHRIK<br>
 
 Constant repetition of this ‘mantra’ before sleep will eventually empty the mind of the associated intent, and it will stimulate the Deep Mind (i.e. the subconscious) to throw up the appropriate images in dream.
 
