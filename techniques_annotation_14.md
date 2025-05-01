@@ -67,6 +67,7 @@ Choose any of the above routes - pursued relentlessly enough, with determination
 - 「トランス」とは何かを問う前に、「通常意識とは何か」自体が実は曖昧であることに気づくべきだ。私たちは「普段の自分」を一つの固定した状態と考えがちだが、実際には白昼夢や運動、音楽、仕事への没頭などを通じて、日常的に軽度の変性意識を行き来している。シャーマニック・トランスは、特別な何かではなく、連続する意識スペクトルの一部として捉えるべきだろう。
 
 ---
+
 ### 🇬🇧 JACK YOUR BODY...（2/4）
 
 Why enter Trance states?
@@ -84,6 +85,8 @@ Contrast this with the mythic world available to someone in modern Britain - an 
 
 5) Demonstration of Ability In our culture, you may be able to get away with impressing people as a shaman because you’ve plowed through the complete works of Kaledon Naddair (no mean feat!). Apprentice shamans however, are sometimes required to enter trance states as a demonstration of their prowess. It is quite common for spirits to test you by placing you under extreme psychic pressure, so that the experience becomes a compressed version of the underworld initiation. Some spirits, demons, & deities will do their best to drive you bananas, only yielding their wisdom when you have proved yourself equal to the task. The spirits of psychotropics are particularly prone to that kind of behaviour, but I’ll save that for another time. There are other good reasons for entering trance but I’ve forgotten them, so I’ll move on.
 You can’t become a shaman in your bedsit, in isolation from anyone else, although periods of deliberate isolation are neccesary from time to time. Also, there aren’t many instructors in shamanism hanging about (not unless you commit yourself to an endless round of weekend workshops), so you will have to learn from everyone and everything. It’s important to learn to recognise the onset of changes in awareness, and explore all possible routes into trance. Learn to trust your own senses and your intuition, rather than the internal dialogue or what you think you “ought” to do.
+
+---
 
 ### 🇯🇵 ジャック・ユア・ボディ...（2/4）
 
