@@ -37,8 +37,10 @@ On another tack, you might well ask “what constitutes a drug anyway?” We kno
 - ケミカルエイドとは、「異界への通路を開くための触媒」としての役割を持つ。香や樹脂も含め、意図的に選択し、注意深く用いることが求められる。
 - ここでハインは「ビール10リットルは合法」と言っているが、合法的な物質であってもオーバードーズすれば違法ドラッグに匹敵する危険性を持つことを忘れてはならない。
 - いわゆる合法ドラッグや脱法ドラッグは、古典的な薬物よりも遥かに危険な場合がある。これは、法の規制を回避するためだけに化学構造を改変した結果、予測不能な毒性や副作用を持つものが多く存在するためである。
-
+- 文中のタブンコ（Tabunco）：一般的な薬草・薬物名としての記録はないが、本書中では「眠気を誘発する化学的補助剤」として言及されている。実在の物質かどうかは不明。
+ 
 ---
+
 ### 🇬🇧 CHEMICAL AIDS (3/3)
 
 Another common misconception about the role of drugs in trance is that all you have to do is to ingest the substance of your choice and passively ‘let it happen’. Well this is fine if you just want to have a good time, but during trance, your perception must be directed or focused. Shamans often train their apprentices by guiding them through the visions, and instructing them in how to appease the spirit of the particular substance. All drugs have their own spirits, whether they grow in the ground or come in a gelatin capsule. So where do the spirits reside? In the substance, in us, or somewhere else? I like to think that they are emergent properties of our experience, invoked like virtual particles from the dance between the molecular configurations of the drug, and the shining webs of neurochemical patterns in the brain. The substance hits our system, and the spirit is ‘unbottled’. Some of them are friendly, while some of them will do their damnedness to kill you. Ride them out, and it is said that they can teach you much, but you must be very careful. In recent years, several foolhardy people have died trying to emulate Carlos Casteneda - ingesting psychotropic concoctions mixed up by obliging shamans. A friend of mine once spent about eight hours preparing a certain species of cactus which he and his friends had been told had hallucinogenic properties. It was only after they had
