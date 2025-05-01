@@ -53,3 +53,8 @@ You will find it useful to explore the different ways in which you can use your 
 - 声は、呪術のなかでも特に「即時に変性意識へ介入する」ツールである。特にチャントは言葉の内容よりも、リズムと共鳴の方が重要である。
 - 「ジベリッシュ」は、言語による世界把握を一時的に解除し、より深い感情的知覚を喚起する手段として有効である。OSHOの『オレンジブック』でも浄化作用の高い技術として紹介されている。
 - 声は「発する」ためのものではなく「響かせる」ためのものである。空間と共鳴する声のエネルギーが、場を変容させる力となる。ドロレス・アッシュクロフト=ノーウィッキも『Your Unseen Power』の中でその重要性を述べている。
+  
+---
+
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
