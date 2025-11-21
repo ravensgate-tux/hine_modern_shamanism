@@ -8,8 +8,11 @@
 
 **by 知られざる呪術師（*Le Sorcier Inconnu*）**
 
-ディスコーディアン暦3191年 交差する道の祝日 第9火曜日<br>
-――静かに歩むシャーマンのために、銀の葉🍃が舞い降りる日
+
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+著者のKSCこと「知られざる呪術師」は<br>ドロレス・アッシュクロフト=ノーウィッキから直接第３位界のイニシエーションを受け<br>ダイアン・フォーチュンから続く法脈を受け継いでいる。</div>
 
 </div>
 
