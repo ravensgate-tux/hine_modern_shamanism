@@ -19,7 +19,7 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 ---
 
 <div align="center">
-  <img src="Phil-Hine-2.jpg" width="400">
+  <img src="Phil-Hine-2.jpg" width="500">
 </div>
 
 ---
